@@ -1,0 +1,2 @@
+AGENT_KEY=sukabliatjman
+TRIGGER_WORD=корни_и_кометы
